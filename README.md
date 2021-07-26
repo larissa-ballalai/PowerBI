@@ -8,3 +8,5 @@ The first part of the dashboard provides a global overview of the gender equalit
  
 
 Finally, the second part of the dashboard, <strong>“How much have we evolved over the past 50 years?”</strong> shows the evolution over the past 50 years by each of the indicators. 
+
+<a href="https://community.powerbi.com/t5/Data-Stories-Gallery/Gender-Equality-2020/m-p/1257701#M4384">Gender Equality 2020 Dashboard</a>
